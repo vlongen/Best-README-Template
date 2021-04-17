@@ -19,7 +19,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![MIT 许可][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -56,22 +56,22 @@
     <li>
       <a href="#关于">关于</a>
       <ul>
-        <li><a href="#built-with">构建</a></li>
+        <li><a href="#构建">构建</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#入门">入门</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#先决条件">先决条件</a></li>
+        <li><a href="#安装">安装</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#使用">使用</a></li>
+    <li><a href="#路线图">路线图</a></li>
+    <li><a href="#贡献">贡献</a></li>
+    <li><a href="#许可">许可</a></li>
+    <li><a href="#联系">联系</a></li>
+    <li><a href="#致谢">致谢</a></li>
   </ol>
 </details>
 
@@ -93,7 +93,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
+### 构建
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
@@ -103,12 +103,12 @@ This section should list any major frameworks that you built your project using.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 入门
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### 先决条件
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -116,7 +116,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### 安装
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -135,7 +135,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## 使用
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -144,14 +144,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmap
+## 路线图
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 贡献
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -164,14 +164,14 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
-## License
+## 许可
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT 许可. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
-## Contact
+## 联系
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
@@ -180,10 +180,10 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## 致谢
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
+* [Choose an Open Source 许可](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
 * [Animate.css](https://daneden.github.io/animate.css)
 * [Loaders.css](https://connoratherton.com/loaders)
